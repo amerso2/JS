@@ -1,3 +1,4 @@
+//Выбор значения
 switch (prompt ("what is the weather")){
 case "snow":
 alert("wear jacket");
